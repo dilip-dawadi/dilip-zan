@@ -3,16 +3,16 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, Java, Python, Django, MySQL, MongoDB,Neo4j, NodeJS, ExpressJS**
+- 💬 Ask me about **Web Development, MySQL, MongoDB, React, NodeJS, ExpressJS**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://sabin149.netlify.app/" target="_blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/sabin-dangal-24b3b41ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dilip-dawadi-0ab68722b/img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:zanzerdawadi123@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/dangalsabin2025"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="https://www.facebook.com/sabin.dangal.149/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+   <a href="https://www.instagram.com/mern_mastery/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="https://www.facebook.com/dilip.dawadi.7"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Full Stack Developer:</h3>
