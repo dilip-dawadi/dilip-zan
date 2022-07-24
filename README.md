@@ -35,9 +35,7 @@
 
 <h3 align="left">Languages :</h3>
 <div align="left">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/dart-1b87c9?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
 
@@ -45,7 +43,6 @@
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-316192?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </div>
 
 <br/>
